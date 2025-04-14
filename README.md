@@ -2,7 +2,9 @@
 
 ## Description
 
-The **StatusLight** is a custom control developed with the **PowerApps Component Framework (PCF)**. It enables the display of a visual indicator in an input field based on values and criteria defined by the user. This control offers flexibility and customization using icons, colors, and positions to simplify data interpretation.
+The **StatusLight** is a custom control built using the **PowerApps Component Framework (PCF)**. It helps users focus on important data by showing visual indicators like icons and colors based on value thresholds. Similar to a traffic light, it uses color-coded signals (e.g., green, yellow, red) to highlight the status or priority of the information. With options to customize colors, icons, and positions, this control can be tailored to match a company’s branding or the context of the data.
+
+
 
 ## Features
 
@@ -14,6 +16,13 @@ The **StatusLight** is a custom control developed with the **PowerApps Component
 - Support for SVG font in custom icons.
 
 ## Properties
+
+### Supported Numerical Fields in Dataverse
+The **StatusLight** control works with any numerical fields in the Dataverse, including:
+- Whole Numbers (**Whole.None**)
+- Currency (**Currency**)
+- Floating-Point Numbers (**FP**)
+- Decimal Numbers (**Decimal**)
 
 ### Input and Configuration
 - **StatusLightPCF**: Base value configuration for the control.
