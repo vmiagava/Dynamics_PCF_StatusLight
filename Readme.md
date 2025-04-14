@@ -1,4 +1,3 @@
-
 # StatusLight PCF Control
 
 ## Description
