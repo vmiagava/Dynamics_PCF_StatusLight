@@ -2,9 +2,8 @@
 
 ## Description
 
-The **StatusLight** is a custom control built using the **PowerApps Component Framework (PCF)**. It helps users focus on important data by showing visual indicators like icons and colors based on value thresholds. Similar to a traffic light, it uses color-coded signals (e.g., green, yellow, red) to highlight the status or priority of the information. With options to customize colors, icons, and positions, this control can be tailored to match a company’s branding or the context of the data.
-
-
+The **StatusLight** is a custom control built using the **PowerApps Component Framework (PCF)**. It helps users focus on important data by showing visual indicators like icons and colors based on value thresholds. 
+Similar to a traffic light, it uses color-coded signals (e.g., green, yellow, red) to highlight the status or priority of the information. With options to customize colors, icons, and positions, this control can be tailored to match a company’s branding or the context of the data.
 
 ## Features
 
